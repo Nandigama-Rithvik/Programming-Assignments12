@@ -26,3 +26,4 @@ public class arrayinput {
         sc.close();
     }
 }
+//Assignment submission
